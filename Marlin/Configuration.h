@@ -42,7 +42,7 @@
 //===========================================================================
 
 /**
- * Here are some standard links for getting your machine calibrated:
+ * Here are some standard links for getting your machine calibrated
  *
  * https://reprap.org/wiki/Calibration
  * https://youtu.be/wAL9d7FgInk
